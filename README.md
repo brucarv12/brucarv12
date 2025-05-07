@@ -3,7 +3,7 @@
     Estudante de Ciência da Computação 🖥️
 
 - Atualmente focada em aprender e me aprofundar no Desenvolvimento Web, principalmente no **Front-End** 🎀
-- Estudando **HTML**, **CSS**, **JavaScript** e **Java** 💖
+- Estudando **HTML**, **CSS**, **JavaScript**, **Java** e **React** 💖
 - Estudando **Sistemas Operacionais** 🖥️
 - Sempre buscando evoluir e colocar a mão na massa em novos projetos 🌟
 - Amo gatinhos 🐱🐾
