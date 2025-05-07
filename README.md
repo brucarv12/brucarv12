@@ -3,7 +3,8 @@
     Estudante de Ciência da Computação 🖥️
 
 - Atualmente focada em aprender e me aprofundar no Desenvolvimento Web, principalmente no **Front-End** 🎀
-- Estudando **HTML**, **CSS**, **JavaScript** e **Java** 💖  
+- Estudando **HTML**, **CSS**, **JavaScript** e **Java** 💖
+- Estudando **Sistemas Operacionais** 🖥️
 - Sempre buscando evoluir e colocar a mão na massa em novos projetos 🌟
 - Amo gatinhos 🐱🐾
 
@@ -11,7 +12,13 @@
 
 ### 🎀 Tecnologias que estou aprendendo:
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/> </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+</p>
 
 ---
 💖 Minhas estatísticas:
