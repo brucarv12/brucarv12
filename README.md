@@ -2,11 +2,10 @@
 
     Estudante de Ciência da Computação 🖥️
 
-- Atualmente focada em aprender e me aprofundar no Desenvolvimento Web, principalmente no **Front-End** 🎀
-- Estudando **HTML**, **CSS**, **JavaScript**, **Java** e **React** 💖
-- Estudando **Sistemas Operacionais** 🖥️
-- Sempre buscando evoluir e colocar a mão na massa em novos projetos 🌟
-- Amo gatinhos 🐱🐾
+- Atualmente focada em me aprofundar no Desenvolvimento Web e no caminho para me tornar FullStack com interesse em sistemas hospitalares 🎀
+- Estudando HTML, CSS, JavaScript, Java, Node.js e React, além de conceitos de Sistemas Operacionais 💖
+- Sempre buscando evoluir, aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos. 🌟
+- 🐱🐾
 
 ---
 
@@ -18,11 +17,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
+
 
 ---
 💖 Minhas estatísticas:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brucarv12&show_icons=true&theme=tokyonight&locale=pt-br" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucarv12&layout=compact&theme=tokyonight&locale=pt-br" height="180" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brucarv12&show_icons=true&bg_color=0D0D0D&title_color=FF00FF&text_color=00FFFF&icon_color=FF00FF&locale=pt-br" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucarv12&layout=compact&bg_color=0D0D0D&title_color=FF00FF&text_color=00FFFF&locale=pt-br" height="180" />
+</p>
+
+
 ---
 
 ### 🌷 Vamos nos conectar?
