@@ -3,7 +3,6 @@
     Estudante de Ciência da Computação 🖥️
 
 - Atualmente focada em me aprofundar no Desenvolvimento Web e no caminho para me tornar FullStack com interesse em sistemas hospitalares 🎀
-- Estudando HTML, CSS, JavaScript, Java, Node.js e React, além de conceitos de Sistemas Operacionais 💖
 - Sempre buscando evoluir, aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos. 🌟
 - 🐱🐾
 
